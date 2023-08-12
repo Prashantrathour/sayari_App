@@ -1,8 +1,9 @@
 # Shayri Generator App README
 
-## Overview
 click here - [ShayariApp](https://sayari-frontend.vercel.app/)
-Welcome to the Shayri Generator App, a creative project that uses React, Chakra UI, Express, MongoDB, Node.js, and OpenAI to enable users to generate unique shayari (poetry) based on a single keyword. This repository contains the codebase for the app, allowing users to experience the beauty of poetry generation with the power of AI.
+## Overview
+
+**Welcome to the Shayri Generator App, a creative project that uses React, Chakra UI, Express, MongoDB, Node.js, and OpenAI to enable users to generate unique shayari (poetry) based on a single keyword. This repository contains the codebase for the app, allowing users to experience the beauty of poetry generation with the power of AI.**
 
 ## Table of Contents
 
